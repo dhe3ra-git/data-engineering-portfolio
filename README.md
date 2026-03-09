@@ -13,9 +13,9 @@ A Python ETL pipeline that:
 - PyArrow
 
 ## Pipeline Steps
-1. **Extract** → Read raw_sales.csv
-2. **Transform** → Remove duplicates, handle nulls, fix data types
-3. **Load** → clean_sales.csv, clean_sales.parquet, sales_summary.csv
+1. Extract - Read raw_sales.csv
+2. Transform - Remove duplicates, handle nulls, fix data types
+3. Load - clean_sales.csv, clean_sales.parquet, sales_summary.csv
 
 ## How to Run
 pip install -r requirements.txt
