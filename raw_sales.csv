@@ -1,0 +1,10 @@
+sale_id,region,amount,sale_date,customer_name
+1,North,75000,2024-01-15,Dheera
+2,South,,2024-01-16,Raj
+3,East,-5000,2024-01-17,Priya
+4,,55000,2024-01-18,Kiran
+5,North,22000,2024-01-19,
+6,West,abc,2024-01-20,Ravi
+7,South,33000,,Meena
+8,North,75000,2024-01-15,Dheera
+```
