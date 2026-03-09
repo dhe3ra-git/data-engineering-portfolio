@@ -1,5 +1,5 @@
-# Week 2 — Mini ETL Project
-## Data Engineering Learning Journey
+# Python ETL Pipeline
+## Data Engineering Portfolio
 
 ## What this project does
 A Python ETL pipeline that:
