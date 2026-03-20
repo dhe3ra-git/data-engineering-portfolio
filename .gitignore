@@ -1,0 +1,11 @@
+.DS_Store
+data/.DS_Store
+data/raw/.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+output/
+generate_customers.py
+generate_sales.py
+generate_returns.py
+generate_dates.py
