@@ -1,0 +1,26 @@
+product_id,product_name,category,sub_category,brand,unit_price,cost_price
+1,iPhone 15 Pro,Electronics,Mobile,Apple,129999,95000
+2,Samsung Galaxy S24,Electronics,Mobile,Samsung,89999,65000
+3,MacBook Air M2,Electronics,Laptop,Apple,114999,85000
+4,Dell XPS 15,Electronics,Laptop,Dell,129999,95000
+5,Sony Headphones WH1000,Electronics,Audio,Sony,29999,20000
+6,JBL Speaker,Electronics,Audio,JBL,15999,10000
+7,Nike Air Max,Fashion,Footwear,Nike,12999,7000
+8,Adidas Ultraboost,Fashion,Footwear,Adidas,14999,8500
+9,Levi's Jeans 511,Fashion,Clothing,Levis,4999,2500
+10,Allen Solly Shirt,Fashion,Clothing,Allen Solly,2999,1500
+11,Puma T-Shirt,Fashion,Clothing,Puma,1999,900
+12,Titan Watch Pro,Accessories,Watch,Titan,8999,5000
+13,Fossil Watch,Accessories,Watch,Fossil,12999,8000
+14,Wildcraft Backpack,Accessories,Bag,Wildcraft,3999,2000
+15,VIP Trolley Bag,Accessories,Bag,VIP,7999,4500
+16,Prestige Mixer,Home,Kitchen,Prestige,5999,3500
+17,Philips Air Fryer,Home,Kitchen,Philips,8999,5500
+18,Godrej Almirah,Home,Furniture,Godrej,24999,16000
+19,Nilkamal Chair,Home,Furniture,Nilkamal,4999,2800
+20,Usha Fan,Home,Appliance,Usha,3999,2200
+21,Patanjali Ghee 1kg,Grocery,Dairy,Patanjali,599,380
+22,Amul Butter 500g,Grocery,Dairy,Amul,299,180
+23,Fortune Rice 5kg,Grocery,Staples,Fortune,449,280
+24,Tata Salt 1kg,Grocery,Staples,Tata,28,15
+25,Maggi Noodles Pack,Grocery,Snacks,Nestle,199,120

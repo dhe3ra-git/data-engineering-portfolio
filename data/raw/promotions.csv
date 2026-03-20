@@ -1,0 +1,16 @@
+promo_id,promo_name,discount_percent,start_date,end_date,category
+1,New Year Sale,20,2024-01-01,2024-01-07,All
+2,Republic Day,15,2024-01-26,2024-01-28,Electronics
+3,Valentine Sale,10,2024-02-12,2024-02-14,Fashion
+4,Holi Sale,25,2024-03-24,2024-03-26,All
+5,Summer Sale,30,2024-04-01,2024-04-15,Fashion
+6,IPL Sale,15,2024-04-05,2024-05-26,Electronics
+7,Eid Sale,20,2024-04-10,2024-04-12,All
+8,Independence Day,20,2024-08-13,2024-08-15,All
+9,Onam Sale,15,2024-09-10,2024-09-17,Home
+10,Navratri Sale,20,2024-10-02,2024-10-12,Fashion
+11,Diwali Sale,30,2024-11-01,2024-11-05,All
+12,Black Friday,35,2024-11-29,2024-11-30,Electronics
+13,Christmas Sale,25,2024-12-23,2024-12-25,All
+14,Year End Sale,40,2024-12-28,2024-12-31,All
+15,No Promo,0,2024-01-01,2024-12-31,None

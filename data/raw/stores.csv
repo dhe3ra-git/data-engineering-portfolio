@@ -1,0 +1,16 @@
+store_id,store_name,region_id,city,state,store_type,opening_date
+1,Delhi Central,1,Delhi,Delhi,Flagship,2019-01-15
+2,Connaught Place,1,Delhi,Delhi,Standard,2019-03-20
+3,Noida Mall,1,Noida,Uttar Pradesh,Mall,2019-06-10
+4,Chennai Express,2,Chennai,Tamil Nadu,Flagship,2019-02-01
+5,Bangalore Hub,2,Bangalore,Karnataka,Flagship,2019-04-15
+6,Hyderabad Central,2,Hyderabad,Telangana,Standard,2019-07-20
+7,Kolkata Main,3,Kolkata,West Bengal,Flagship,2019-03-01
+8,Bhubaneswar,3,Bhubaneswar,Odisha,Standard,2019-08-15
+9,Mumbai Central,4,Mumbai,Maharashtra,Flagship,2019-01-20
+10,Pune Mall,4,Pune,Maharashtra,Mall,2019-05-10
+11,Ahmedabad Store,4,Ahmedabad,Gujarat,Standard,2019-09-01
+12,Nagpur Store,5,Nagpur,Maharashtra,Standard,2019-10-15
+13,Bhopal Central,5,Bhopal,Madhya Pradesh,Standard,2020-01-10
+14,Indore Mall,5,Indore,Madhya Pradesh,Mall,2020-03-20
+15,Jaipur Store,1,Jaipur,Rajasthan,Standard,2020-06-15
